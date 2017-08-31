@@ -21,7 +21,7 @@
 <p>It's Terrible now, but it will get better when i learn more.</p>
 
 
-<img src="2jtQ1r.png>
+<img src="2jtQ1r.png">
 
 
 </body>
