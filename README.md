@@ -19,7 +19,6 @@
 
 
 background: url ("2jtQ1r.png")
-    background-size: cover;}
 
 </body>
 
