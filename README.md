@@ -17,8 +17,7 @@
 
 <p>It's Terrible now, but it will get better when i learn more.</p>
 
-
-background-color:#000080
+<img src="2jtQ1r.png"/>
 
 </body>
 
