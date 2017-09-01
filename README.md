@@ -2,13 +2,10 @@
 
 <html>
 
-
 <head>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-
-<title>First Website</title>
 </head>
 
 <body>
@@ -21,8 +18,8 @@
 <p>It's Terrible now, but it will get better when i learn more.</p>
 
 
-<img src="2jtQ1r.png">
-
+background: url<img src="2jtQ1r.png> no-repeat center center;
+    background-size: cover;}
 
 </body>
 
