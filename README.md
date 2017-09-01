@@ -9,7 +9,7 @@
 </head>
 
 <body>
-<a href="link">main.cc</a>
+<link rel="stylesheet" href="css/main.css" media="screen">
 <h1>My First Website</h1>
 
 <p>Hello, My name is <b>David Martinez</b>. This is my very first website.<p>
